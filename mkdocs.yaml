@@ -1,5 +1,5 @@
 site_name: "drop-docs"
-site_description: "drop-docs"
+site_description: "The documentation repo for CITZ product supporting GARMS to create Discrepancy Reports On Payments (DROP)"
 repo_url: https://github.com/bcgov/drop-docs
 edit_uri: edit/main/docs/
 
