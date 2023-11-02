@@ -1,0 +1,10 @@
+site_name: "drop-docs"
+site_description: "drop-docs"
+repo_url: https://github.com/bcgov/drop-docs
+edit_uri: edit/main/docs/
+
+nav:
+  - Introduction: index.md
+  - Contact us: contact.md
+plugins:
+  - techdocs-core
