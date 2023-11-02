@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "drop-docs"
+  description: "The documentation repo for CITZ product supporting GARMS to create Discrepancy Reports On Payments (DROP)"
+  annotations:
+    github.com/project-slug: bcgov/drop-docs
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: documentation
+  lifecycle: production
+  owner: "citz"
